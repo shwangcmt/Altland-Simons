@@ -1,9 +1,9 @@
 # Altland-Simons
 _A study group on **Condensed Matter Field Theory** (Third Edition) by Altland and Simons_
 
-The main purpose of this github repo is to gather information (weekly schedual, including presentation time and location) and use the [Discussion](https://github.com/shwangcmt/Altland-Simons/discussions). In case you never used github, let me tell you that the github's Discussion is so cool: it supports [LaTeX](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions), which is crucial for technical discussions. It is free; you only need to sign up to [github](https://github.com/signup) and then you are good to go. 
+The main purpose of this github repo is to gather information (weekly schedual, including presentation time and location) and use the [Discussion](https://github.com/shwangcmt/Altland-Simons/discussions). In case you never used github, let me tell you that the github's Discussion is so cool. It supports [LaTeX](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions), which is crucial for technical discussions. It is free. You only need to sign up to [github](https://github.com/signup) and then you are good to go. 
 
-The book is freely available from our library at [here](https://search.library.ucr.edu/discovery/fulldisplay?docid=alma9919759025006531&context=L&vid=01CDL_RIV_INST:UCR&lang=en&search_scope=Everything&adaptor=Local%20Search%20Engine&isFrbr=true&tab=Everything&query=any,contains,altland%20simons&sortby=date_d&facet=frbrgroupid,include,9083417688746215883&offset=0). A copy can be purchased from, e.g. Amazon at [here](https://www.amazon.com/Condensed-Matter-Theory-Alexander-Altland/dp/1108494609/). 
+The book is freely available online from our library at [here](https://search.library.ucr.edu/discovery/fulldisplay?docid=alma9919759025006531&context=L&vid=01CDL_RIV_INST:UCR&lang=en&search_scope=Everything&adaptor=Local%20Search%20Engine&isFrbr=true&tab=Everything&query=any,contains,altland%20simons&sortby=date_d&facet=frbrgroupid,include,9083417688746215883&offset=0). A copy can be purchased from, e.g. Amazon at [here](https://www.amazon.com/Condensed-Matter-Theory-Alexander-Altland/dp/1108494609/). 
 
 ## Week 1 (Mar 31)  
 **Topics:**
