@@ -1,5 +1,5 @@
 # Altland-Simons
-_A study group on Condensed Matter Field Theory (Third Edition) by Altland and Simons_
+_A study group on **Condensed Matter Field Theory** (Third Edition) by Altland and Simons_
 
 The main purpose of this github repo is to gather information and use the [Discussion](https://github.com/shwangcmt/Altland-Simons/discussions). In case you never used github, let me tell you that the github's Discussion is very good: it supports [LaTeX](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions), which is crucial for technical discussions. It is free; you only need to sign up to [github](https://github.com/signup) and then you are good to go. 
 
