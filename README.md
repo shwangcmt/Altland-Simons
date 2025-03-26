@@ -5,7 +5,7 @@ The main purpose of this GitHub repository is to gather information (weekly sche
 
 We highly encourage you to post your questions on the Discussion page, as it fosters engagement for everyone. Formulating your questions clearly and sharing them publicly not only enhances your understanding but also helps reinforce your memory. GitHub allows you to [watch](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications#configuring-your-watch-settings-for-an-individual-repository) a repository and receive notifications from it. 
 
-The book is freely available online from our library at [here](https://search.library.ucr.edu/discovery/fulldisplay?docid=alma9919759025006531&context=L&vid=01CDL_RIV_INST:UCR&lang=en&search_scope=Everything&adaptor=Local%20Search%20Engine&isFrbr=true&tab=Everything&query=any,contains,altland%20simons&sortby=date_d&facet=frbrgroupid,include,9083417688746215883&offset=0). A copy can be purchased from, e.g. [Amazon](https://www.amazon.com/Condensed-Matter-Theory-Alexander-Altland/dp/1108494609/). 
+The book is available online from our library at [here](https://search.library.ucr.edu/discovery/fulldisplay?docid=alma9919759025006531&context=L&vid=01CDL_RIV_INST:UCR&lang=en&search_scope=Everything&adaptor=Local%20Search%20Engine&isFrbr=true&tab=Everything&query=any,contains,altland%20simons&sortby=date_d&facet=frbrgroupid,include,9083417688746215883&offset=0). A copy can be purchased from, e.g. [Amazon](https://www.amazon.com/Condensed-Matter-Theory-Alexander-Altland/dp/1108494609/). 
 
 **Group Members:** Shuo Geng, Giorgi Gogaberishivili, Shi-Xiong Wang
 
