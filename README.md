@@ -59,7 +59,7 @@ The book is available online from our library at [here](https://search.library.u
 - 3.6 Field-Theoretical Bosonization: A Case Study  
 
 **Exercises:**   
-**Presenter:**  
+**Presenter:** Giorgi Gogaberishivili
 
 ## Week 7 (May 16)  
 **Topics:**  
