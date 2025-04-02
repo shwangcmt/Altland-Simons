@@ -11,7 +11,7 @@ The book is available online from our library at [here](https://search.library.u
 
 **Presentation Time and Location:** 2:30 pm - 5:00 pm, MS&E 302 Conference Room
 
-## Week 1 (Mar 31)  
+## Week 1 (Apr 4)  
 **Topics:**
 - 2.1 Introduction to Second Quantization  
 - 2.2 Applications of Second Quantization  
@@ -23,7 +23,7 @@ The book is available online from our library at [here](https://search.library.u
 **Presenter:** Shi-Xiong Wang  
 
 
-## Week 2 (Apr 7)  
+## Week 2 (Apr 11)  
 **Topics:**  
 - 2.2 Applications of Second Quantization (cont'd)  
   - 2.2.4 Interacting fermions in one dimension  
@@ -32,7 +32,7 @@ The book is available online from our library at [here](https://search.library.u
 **Exercises:** 67, 68, 69, 74, 75, 77  
 **Presenter:** Giorgi Gogaberishivili
 
-## Week 3 (Apr 14)  
+## Week 3 (Apr 18)  
 **Topics:**  
 - 3.1 The Path Integral: General Formalism  
 - 3.2 Construction of the Path Integral  
@@ -40,49 +40,49 @@ The book is available online from our library at [here](https://search.library.u
 **Exercises:** 101, 105, 107-1, 107-2, 109  
 **Presenter:**  
 
-## Week 4 (Apr 21)  
+## Week 4 (Apr 25)  
 **Topics:**  
 - 3.4 Construction of the Many-Body Field Integral  
 
 **Exercises:**   
 **Presenter:**  
 
-## Week 5 (Apr 28)  
+## Week 5 (May 2)  
 **Topics:**  
 - 3.5 Field Integral for the Quantum Partition Function  
 
 **Exercises:**   
 **Presenter:**  
 
-## Week 6 (May 5)  
+## Week 6 (May 9)  
 **Topics:**  
 - 3.6 Field-Theoretical Bosonization: A Case Study  
 
 **Exercises:**   
 **Presenter:**  
 
-## Week 7 (May 12)  
+## Week 7 (May 16)  
 **Topics:**  
 - 4.1 General Concept and Low-Order Expansions  
 
 **Exercises:**   
 **Presenter:**  
 
-## Week 8 (May 19)  
+## Week 8 (May 23)  
 **Topics:**  
 - 4.2 Ground State Energy of the Interacting Electron Gas  
 
 **Exercises:**   
 **Presenter:**  
 
-## Week 9 (May 26)  
+## Week 9 (May 30)  
 **Topics:**  
 - 4.3 Infinite-Order Expansions  
 
 **Exercises:**   
 **Presenter:**  
 
-## Week 10 (Jun 2)  
+## Week 10 (Jun 6)  
 **Topics:**  
 - 5.1 Case Study: Plasma Theory of the Electron Gas  
 
