@@ -9,6 +9,8 @@ The book is available online from our library at [here](https://search.library.u
 
 **Group Members:** Shuo Geng, Giorgi Gogaberishivili, Morgan Ohana, Alejandro Reyes, Shi-Xiong Wang, Jason Yee
 
+**Presentation Time and Location:** 2:30 pm - 5:00 pm, MS&E 302 Conference Room
+
 ## Week 1 (Mar 31)  
 **Topics:**
 - 2.1 Introduction to Second Quantization  
@@ -19,7 +21,6 @@ The book is available online from our library at [here](https://search.library.u
 
 **Exercises:** (on page) 49, 56, 57, 58, 60, 62-1, 62-2, 63  
 **Presenter:** Shi-Xiong Wang  
-**Time & Location:** 
 
 
 ## Week 2 (Apr 7)  
@@ -29,8 +30,7 @@ The book is available online from our library at [here](https://search.library.u
   - 2.2.5 Quantum spin chains  
 
 **Exercises:** 67, 68, 69, 74, 75, 77  
-**Presenter:**  
-**Time & Location:** 
+**Presenter:** Giorgi Gogaberishivili
 
 ## Week 3 (Apr 14)  
 **Topics:**  
@@ -39,7 +39,6 @@ The book is available online from our library at [here](https://search.library.u
 
 **Exercises:** 101, 105, 107-1, 107-2, 109  
 **Presenter:**  
-**Time & Location:**
 
 ## Week 4 (Apr 21)  
 **Topics:**  
@@ -47,7 +46,6 @@ The book is available online from our library at [here](https://search.library.u
 
 **Exercises:**   
 **Presenter:**  
-**Time & Location:**
 
 ## Week 5 (Apr 28)  
 **Topics:**  
@@ -55,7 +53,6 @@ The book is available online from our library at [here](https://search.library.u
 
 **Exercises:**   
 **Presenter:**  
-**Time & Location:**
 
 ## Week 6 (May 5)  
 **Topics:**  
@@ -63,8 +60,6 @@ The book is available online from our library at [here](https://search.library.u
 
 **Exercises:**   
 **Presenter:**  
-**Time & Location:**
-
 
 ## Week 7 (May 12)  
 **Topics:**  
@@ -72,7 +67,6 @@ The book is available online from our library at [here](https://search.library.u
 
 **Exercises:**   
 **Presenter:**  
-**Time & Location:**
 
 ## Week 8 (May 19)  
 **Topics:**  
@@ -80,7 +74,6 @@ The book is available online from our library at [here](https://search.library.u
 
 **Exercises:**   
 **Presenter:**  
-**Time & Location:**
 
 ## Week 9 (May 26)  
 **Topics:**  
@@ -88,7 +81,6 @@ The book is available online from our library at [here](https://search.library.u
 
 **Exercises:**   
 **Presenter:**  
-**Time & Location:**
 
 ## Week 10 (Jun 2)  
 **Topics:**  
@@ -96,4 +88,3 @@ The book is available online from our library at [here](https://search.library.u
 
 **Exercises:**   
 **Presenter:**  
-**Time & Location:**
