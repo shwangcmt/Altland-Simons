@@ -9,7 +9,7 @@ The book is available online from our library at [here](https://search.library.u
 
 **Group Members:** Shuo Geng, Giorgi Gogaberishivili, Morgan Ohana, Alejandro Reyes, Shi-Xiong Wang, Jason Yee
 
-**Presentation Time and Location:** 2:30 pm - 5:00 pm, MS&E 302 Conference Room
+**Presentation Time and Location:** Fridays, 2:30 pm - 5:00 pm, MS&E 302 Conference Room
 
 ## Week 1 (Apr 4)  
 **Topics:**
