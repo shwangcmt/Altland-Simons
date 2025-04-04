@@ -16,12 +16,10 @@ The book is available online from our library at [here](https://search.library.u
 - 2.1 Introduction to Second Quantization  
 - 2.2 Applications of Second Quantization  
   - 2.2.1 Electrons in a periodic potential  
-  - 2.2.2 Interaction effects in the tight-binding system  
-  - 2.2.3 Mott-Hubbard transition and the magnetic state  
 
 **Exercises:** (on page) 49, 56, 57, 58, 60, 62-1, 62-2, 63  
 **Presenter:** Shi-Xiong Wang  
-
+**Notes:** [NotesWeek1](NotesWeek1.pdf)
 
 ## Week 2 (Apr 11)  
 **Topics:**  
