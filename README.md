@@ -17,72 +17,66 @@ The book is available online from our library at [here](https://search.library.u
 - 2.2 Applications of Second Quantization  
   - 2.2.1 Electrons in a periodic potential  
 
-**Exercises:** (on page) 49, 56, 57, 58, 60, 62-1, 62-2, 63  
 **Presenter:** Shi-Xiong Wang  
-**Notes:** [NotesWeek1](NotesWeek1.pdf)
+**Notes:** [NotesWeek1](NotesWeek1.pdf)  
+**Reference:**
+- Feynman, *Statistical Mechanics: A Set of Lectures*, Chapter 6, I followed the way he introduced the second quantization. 
+- Schwabl, *Advanced Quantum Mechanics*, Chapter 1
+- Nagaosa, *Quantum Field Theory in Strongly Correlated Electronic Systems*, Chapter 3
 
 ## Week 2 (Apr 11)  
 **Topics:**  
 - 2.2 Applications of Second Quantization (cont'd)  
   - 2.2.4 Interacting fermions in one dimension  
   - 2.2.5 Quantum spin chains  
-
-**Exercises:** 67, 68, 69, 74, 75, 77  
+ 
 **Presenter:** Giorgi Gogaberishivili
 
 ## Week 3 (Apr 18)  
 **Topics:**  
 - 3.1 The Path Integral: General Formalism  
 - 3.2 Construction of the Path Integral  
-
-**Exercises:** 101, 105, 107-1, 107-2, 109  
+ 
 **Presenter:**  
 
 ## Week 4 (Apr 25)  
 **Topics:**  
 - 3.4 Construction of the Many-Body Field Integral  
 
-**Exercises:**   
 **Presenter:**  
 
 ## Week 5 (May 2)  
 **Topics:**  
 - 3.5 Field Integral for the Quantum Partition Function  
 
-**Exercises:**   
 **Presenter:**  
 
 ## Week 6 (May 9)  
 **Topics:**  
 - 3.6 Field-Theoretical Bosonization: A Case Study  
 
-**Exercises:**   
 **Presenter:** Giorgi Gogaberishivili
 
 ## Week 7 (May 16)  
 **Topics:**  
 - 4.1 General Concept and Low-Order Expansions  
 
-**Exercises:**   
 **Presenter:**  
 
 ## Week 8 (May 23)  
 **Topics:**  
 - 4.2 Ground State Energy of the Interacting Electron Gas  
 
-**Exercises:**   
 **Presenter:**  
 
 ## Week 9 (May 30)  
 **Topics:**  
 - 4.3 Infinite-Order Expansions  
 
-**Exercises:**   
 **Presenter:**  
 
 ## Week 10 (Jun 6)  
 **Topics:**  
 - 5.1 Case Study: Plasma Theory of the Electron Gas  
 
-**Exercises:**   
 **Presenter:**  
