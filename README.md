@@ -37,7 +37,7 @@ The book is available online from our library at [here](https://search.library.u
 - 3.1 The Path Integral: General Formalism  
 - 3.2 Construction of the Path Integral  
  
-**Presenter:**  
+**Presenter:** Morgan Ohana
 
 ## Week 4 (Apr 25)  
 **Topics:**  
