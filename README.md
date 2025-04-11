@@ -27,8 +27,7 @@ The book is available online from our library at [here](https://search.library.u
 ## Week 2 (Apr 11)  
 **Topics:**  
 - 2.2 Applications of Second Quantization (cont'd)  
-  - 2.2.4 Interacting fermions in one dimension  
-  - 2.2.5 Quantum spin chains  
+  - 2.2.4 Interacting fermions in one dimension   
  
 **Presenter:** Giorgi Gogaberishivili
 
