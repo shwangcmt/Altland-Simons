@@ -49,7 +49,7 @@ The book is available online from our library at [here](https://search.library.u
 **Topics:**  
 - 3.5 Field Integral for the Quantum Partition Function  
 
-**Presenter:**  
+**Presenter:** Jason Yee
 
 ## Week 6 (May 9)  
 **Topics:**  
