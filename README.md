@@ -18,7 +18,7 @@ The book is available online from our library at [here](https://search.library.u
   - 2.2.1 Electrons in a periodic potential  
 
 **Presenter:** Shi-Xiong Wang  
-**Notes:** [NotesWeek1](NotesWeek1.pdf)  
+**Notes:** [NotesWeek1](NotesWeek1.pdf) by Shi-Xiong  
 **Reference:**
 - Feynman, *Statistical Mechanics: A Set of Lectures*, Chapter 6, I followed the way he introduced the second quantization. 
 - Schwabl, *Advanced Quantum Mechanics*, Chapter 1
@@ -27,9 +27,10 @@ The book is available online from our library at [here](https://search.library.u
 ## Week 2 (Apr 11)  
 **Topics:**  
 - 2.2 Applications of Second Quantization (cont'd)  
-  - 2.2.4 Interacting fermions in one dimension   
- 
-**Presenter:** Giorgi Gogaberishivili
+  - 2.2.4 Interacting fermions in one dimension
+
+**Presenter:** Giorgi Gogaberishivili  
+**Notes:** [NotesWeek2](NotesWeek2.pdf) by Giorgi  
 
 ## Week 3 (Apr 18)  
 **Topics:**  
