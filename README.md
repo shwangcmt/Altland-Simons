@@ -7,7 +7,7 @@ We highly encourage you to post your questions on the Discussion page, as it fos
 
 The book is available online from our library at [here](https://search.library.ucr.edu/discovery/fulldisplay?docid=alma9919759025006531&context=L&vid=01CDL_RIV_INST:UCR&lang=en&search_scope=Everything&adaptor=Local%20Search%20Engine&isFrbr=true&tab=Everything&query=any,contains,altland%20simons&sortby=date_d&facet=frbrgroupid,include,9083417688746215883&offset=0). A copy can be purchased from, e.g. [Amazon](https://www.amazon.com/Condensed-Matter-Theory-Alexander-Altland/dp/1108494609/). 
 
-**Group Members:** Shuo Geng, Giorgi Gogaberishivili, Morgan Ohana, Alejandro Reyes, Shi-Xiong Wang, Jason Yee
+**Group Members:** Shuo Geng, Giorgi Gogaberishivili, Morgan Ohana, Shi-Xiong Wang, Jason Yee
 
 **Presentation Time and Location:** Fridays, 2:30 pm - 5:00 pm, MS&E 302 Conference Room
 
