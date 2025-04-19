@@ -35,9 +35,12 @@ The book is available online from our library at [here](https://search.library.u
 ## Week 3 (Apr 18)  
 **Topics:**  
 - 3.1 The Path Integral: General Formalism  
-- 3.2 Construction of the Path Integral  
+- 3.2 Construction of the Path Integral
+- 3.3 Advanced Applications of the Feynman Path Integral
+  - 3.3.1 Double well potential: tunneling and instantons  
  
-**Presenter:** Morgan Ohana
+**Presenter:** Morgan Ohana  
+**Notes:** [NotesWeek3](NotesWeek3.pdf) by Morgan  
 
 ## Week 4 (Apr 25)  
 **Topics:**  
