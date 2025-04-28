@@ -46,7 +46,8 @@ The book is available online from our library at [here](https://search.library.u
 **Topics:**  
 - 3.4 Construction of the Many-Body Field Integral  
 
-**Presenter:** Shuo Geng
+**Presenter:** Shuo Geng  
+**Notes:** [NotesWeek4](NotesWeek4.pdf) by Shuo  
 
 ## Week 5 (May 2)  
 **Topics:**  
