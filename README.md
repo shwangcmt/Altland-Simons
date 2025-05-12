@@ -65,22 +65,22 @@ The book is available online from our library at [here](https://search.library.u
 **Topics:**  
 - 4.1 General Concept and Low-Order Expansions  
 
-**Presenter:**  
+**Presenter:** Shi-Xiong Wang
 
 ## Week 8 (May 23)  
 **Topics:**  
 - 4.2 Ground State Energy of the Interacting Electron Gas  
 
-**Presenter:**  
+**Presenter:** Shuo Geng
 
 ## Week 9 (May 30)  
 **Topics:**  
 - 4.3 Infinite-Order Expansions  
 
-**Presenter:**  
+**Presenter:** Morgan Ohana
 
 ## Week 10 (Jun 6)  
 **Topics:**  
 - 5.1 Case Study: Plasma Theory of the Electron Gas  
 
-**Presenter:**  
+**Presenter:** Jason Yee
