@@ -57,9 +57,10 @@ The book is available online from our library at [here](https://search.library.u
 
 ## Week 6 (May 9)  
 **Topics:**  
-- 3.6 Field-Theoretical Bosonization: A Case Study  
+- 3.6 Field-Theoretical Bosonization: A Case Study
 
-**Presenter:** Giorgi Gogaberishivili
+**Presenter:** Giorgi Gogaberishivili  
+**Notes:** [NotesWeek6](NotesWeek6.pdf) by Giorgi  
 
 ## Week 7 (May 16)  
 **Topics:**  
