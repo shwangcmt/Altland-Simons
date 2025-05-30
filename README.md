@@ -78,7 +78,8 @@ The book is available online from our library at [here](https://search.library.u
 **Topics:**  
 - 4.3 Infinite-Order Expansions  
 
-**Presenter:** Morgan Ohana
+**Presenter:** Morgan Ohana  
+**Notes:** [NotesWeek9](NotesWeek9.pdf) by Morgan
 
 ## Week 10 (Jun 6)  
 **Topics:**  
