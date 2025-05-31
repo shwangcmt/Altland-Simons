@@ -66,7 +66,9 @@ The book is available online from our library at [here](https://search.library.u
 **Topics:**  
 - 4.1 General Concept and Low-Order Expansions  
 
-**Presenter:** Shi-Xiong Wang
+**Presenter:** Shi-Xiong Wang  
+**Reference:**  
+- Kardar, *Statistical Physics of Particles*, Chapters 2 & 5 on cumulant expansion
 
 ## Week 8 (May 23)  
 **Topics:**  
@@ -79,7 +81,9 @@ The book is available online from our library at [here](https://search.library.u
 - 4.3 Infinite-Order Expansions  
 
 **Presenter:** Morgan Ohana  
-**Notes:** [NotesWeek9](NotesWeek9.pdf) by Morgan
+**Notes:** [NotesWeek9](NotesWeek9.pdf) by Morgan  
+**Reference:**
+- Fradkin, [Physics 583: Advanced Field Theory](https://eduardo.physics.illinois.edu/phys583/physics583.html), [The 1/N expansions](https://eduardo.physics.illinois.edu/phys583/ch17.pdf).
 
 ## Week 10 (Jun 6)  
 **Topics:**  
