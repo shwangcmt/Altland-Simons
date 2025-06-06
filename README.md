@@ -17,7 +17,7 @@ The book is available online from our library at [here](https://search.library.u
 **Topics:**
 - 5.2 Bose–Einstein Condensation and Superfluidity
 
-**Presenter:** 
+**Presenter:** Shi-Xiong Wang
 
 
 ## Week 2 (Jul 11)  
@@ -29,7 +29,7 @@ The book is available online from our library at [here](https://search.library.u
   - 5.3.4 Superconductivity from the field integral
   - 5.3.5 Ginzburg–Landau theory
 
-**Presenter:** 
+**Presenter:** Giorgi Gogaberishivili
 
 
 ## Week 3 (Jul 18)  
@@ -38,7 +38,7 @@ The book is available online from our library at [here](https://search.library.u
   - 5.3.6 Action of the phase mode
   - 5.3.7 Meissner effect and Anderson–Higgs mechanism
 
-**Presenter:** 
+**Presenter:** Giorgi Gogaberishivili
 
 
 ## Week 4 (Jul 25)  
@@ -67,7 +67,7 @@ The book is available online from our library at [here](https://search.library.u
 **Topics:**
 - 6.5 Berezinskii–Kosterlitz–Thouless Transition
 
-**Presenter:** 
+**Presenter:** Giorgi Gogaberishivili
 
 
 ## Week 8 (Aug 22)  
@@ -98,8 +98,8 @@ The book is available online from our library at [here](https://search.library.u
 ---
 
 <details>
-
 <summary> Spring 2025 (Click to expand) </summary>
+
 
 ## Week 1 (Apr 4)  
 **Topics:**
