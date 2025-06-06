@@ -59,7 +59,7 @@ The book is available online from our library at [here](https://search.library.u
 
 ## Week 6 (Aug 8)  
 **Topics:**
-- 6.4 RG Analysis of the Nonlinear $sigma$-Model
+- 6.4 RG Analysis of the Nonlinear $\sigma$-Model
 
 **Presenter:** 
 
