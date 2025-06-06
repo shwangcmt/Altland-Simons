@@ -17,7 +17,7 @@ The book is available online from our library at [here](https://search.library.u
 **Topics:**
 - 5.2 Bose–Einstein Condensation and Superfluidity
 
-**Presenter:** Shi-Xiong Wang
+**Presenter:** Shi-Xiong
 
 
 ## Week 2 (Jul 11)  
@@ -29,7 +29,7 @@ The book is available online from our library at [here](https://search.library.u
   - 5.3.4 Superconductivity from the field integral
   - 5.3.5 Ginzburg–Landau theory
 
-**Presenter:** Giorgi Gogaberishivili
+**Presenter:** Giorgi
 
 
 ## Week 3 (Jul 18)  
@@ -38,7 +38,7 @@ The book is available online from our library at [here](https://search.library.u
   - 5.3.6 Action of the phase mode
   - 5.3.7 Meissner effect and Anderson–Higgs mechanism
 
-**Presenter:** Giorgi Gogaberishivili
+**Presenter:** Giorgi
 
 
 ## Week 4 (Jul 25)  
@@ -46,28 +46,28 @@ The book is available online from our library at [here](https://search.library.u
 - 6.1 Renormalization: Two Examples (without 6.1.2)
 - 6.2 Renormalization Group: General Theory
 
-**Presenter:** 
+**Presenter:** Jason
 
 
 ## Week 5 (Aug 1)  
 **Topics:**
 - 6.3 RG Analysis of the Ferromagnetic Transition
 
-**Presenter:** 
+**Presenter:** Shuo
 
 
 ## Week 6 (Aug 8)  
 **Topics:**
 - 6.4 RG Analysis of the Nonlinear $\sigma$-Model
 
-**Presenter:** 
+**Presenter:** Morgan
 
 
 ## Week 7 (Aug 15)  
 **Topics:**
 - 6.5 Berezinskii–Kosterlitz–Thouless Transition
 
-**Presenter:** Giorgi Gogaberishivili
+**Presenter:** Giorgi
 
 
 ## Week 8 (Aug 22)  
@@ -75,7 +75,7 @@ The book is available online from our library at [here](https://search.library.u
 - 7.1 Experimental Approaches to Condensed Matter
 - 7.2 Linear Response Theory
 
-**Presenter:** 
+**Presenter:** Shuo
 
 
 ## Week 9 (Aug 29)  
@@ -83,7 +83,7 @@ The book is available online from our library at [here](https://search.library.u
 - 7.3 Analytic Structure of Correlation Functions
   - 7.3.1 Lehmann representation
 
-**Presenter:** 
+**Presenter:** Morgan
 
 
 ## Week 10 (Sep 5)  
@@ -92,7 +92,7 @@ The book is available online from our library at [here](https://search.library.u
   - 7.3.2 Sum rules and other exact identities
 - 7.4 Electromagnetic Linear Response (without 7.4.1)
 
-**Presenter:** 
+**Presenter:** Jason
 
 
 ---
