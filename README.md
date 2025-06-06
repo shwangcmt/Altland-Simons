@@ -43,8 +43,7 @@ The book is available online from our library at [here](https://search.library.u
 
 ## Week 4 (Jul 25)  
 **Topics:**
-- 6.1 Renormalization: Two Examples
-  - 6.1.1 One-dimensional Ising model
+- 6.1 Renormalization: Two Examples (without 6.1.2)
 - 6.2 Renormalization Group: General Theory
 
 **Presenter:** 
