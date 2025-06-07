@@ -9,18 +9,22 @@ The book is available online from our library at [here](https://search.library.u
 
 **Group Members:** Shuo Geng, Giorgi Gogaberishivili, Morgan Ohana, Shi-Xiong Wang, Jason Yee
 
-**Presentation Time and Location:** Fridays, 2:30 pm - 5:00 pm, MS&E 302 Conference Room
+**Presentation Time and Location:**  
+Thursdays, 8:00 pm - 10:30 pm (Los Angeles)  
+Fridays, 7:00 am - 9:30 am (Georgia)  
+Fridays, 11:00 am - 1:30 pm (China)
+via [Zoom](https://ucr.zoom.us/my/shixiong)
 
 ---
 
-## Week 1 (Jul 4)  
+## Week 1 (Jul 3)  
 **Topics:**
 - 5.2 Bose–Einstein Condensation and Superfluidity
 
 **Presenter:** Shi-Xiong
 
 
-## Week 2 (Jul 11)  
+## Week 2 (Jul 10)  
 **Topics:**
 - 5.3 Superconductivity (I)
   - 5.3.1 Basic concepts of BCS theory
@@ -32,7 +36,7 @@ The book is available online from our library at [here](https://search.library.u
 **Presenter:** Giorgi
 
 
-## Week 3 (Jul 18)  
+## Week 3 (Jul 17)  
 **Topics:**
 - 5.3 Superconductivity (II)
   - 5.3.6 Action of the phase mode
@@ -41,7 +45,7 @@ The book is available online from our library at [here](https://search.library.u
 **Presenter:** Giorgi
 
 
-## Week 4 (Jul 25)  
+## Week 4 (Jul 24)  
 **Topics:**
 - 6.1 Renormalization: Two Examples (without 6.1.2)
 - 6.2 Renormalization Group: General Theory
@@ -49,28 +53,28 @@ The book is available online from our library at [here](https://search.library.u
 **Presenter:** Jason
 
 
-## Week 5 (Aug 1)  
+## Week 5 (Jul 31)  
 **Topics:**
 - 6.3 RG Analysis of the Ferromagnetic Transition
 
 **Presenter:** Shuo
 
 
-## Week 6 (Aug 8)  
+## Week 6 (Aug 7)  
 **Topics:**
 - 6.4 RG Analysis of the Nonlinear $\sigma$-Model
 
 **Presenter:** Morgan
 
 
-## Week 7 (Aug 15)  
+## Week 7 (Aug 14)  
 **Topics:**
 - 6.5 Berezinskii–Kosterlitz–Thouless Transition
 
 **Presenter:** Giorgi
 
 
-## Week 8 (Aug 22)  
+## Week 8 (Aug 21)  
 **Topics:**
 - 7.1 Experimental Approaches to Condensed Matter
 - 7.2 Linear Response Theory
@@ -78,7 +82,7 @@ The book is available online from our library at [here](https://search.library.u
 **Presenter:** Shuo
 
 
-## Week 9 (Aug 29)  
+## Week 9 (Aug 28)  
 **Topics:**
 - 7.3 Analytic Structure of Correlation Functions
   - 7.3.1 Lehmann representation
@@ -86,7 +90,7 @@ The book is available online from our library at [here](https://search.library.u
 **Presenter:** Morgan
 
 
-## Week 10 (Sep 5)  
+## Week 10 (Sep 4)  
 **Topics:**
 - 7.3 Analytic Structure of Correlation Functions
   - 7.3.2 Sum rules and other exact identities
