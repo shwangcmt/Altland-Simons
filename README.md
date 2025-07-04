@@ -17,7 +17,7 @@ via [Zoom](https://ucr.zoom.us/my/shixiong)
 
 ---
 
-## Week 1 (Jul 3)  
+## Week 1 (Jul 7)  
 **Topics:**
 - 5.2 Bose–Einstein Condensation and Superfluidity
 
