@@ -24,7 +24,7 @@ via [Zoom](https://ucr.zoom.us/my/shixiong)
 **Presenter:** Shi-Xiong
 
 
-## Week 2 (Jul 10)  
+## Week 2 (Jul 14)  
 **Topics:**
 - 5.3 Superconductivity (I)
   - 5.3.1 Basic concepts of BCS theory
