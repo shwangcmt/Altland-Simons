@@ -36,7 +36,7 @@ via [Zoom](https://ucr.zoom.us/my/shixiong)
 **Presenter:** Giorgi
 
 
-## Week 3 (Jul 17)  
+## Week 3 (Jul 21)  
 **Topics:**
 - 5.3 Superconductivity (II)
   - 5.3.6 Action of the phase mode
@@ -45,7 +45,7 @@ via [Zoom](https://ucr.zoom.us/my/shixiong)
 **Presenter:** Giorgi
 
 
-## Week 4 (Jul 24)  
+## Week 4 (Jul 28)  
 **Topics:**
 - 6.1 Renormalization: Two Examples (without 6.1.2)
 - 6.2 Renormalization Group: General Theory
@@ -53,28 +53,28 @@ via [Zoom](https://ucr.zoom.us/my/shixiong)
 **Presenter:** Jason
 
 
-## Week 5 (Jul 31)  
+## Week 5 (Aug 4)  
 **Topics:**
 - 6.3 RG Analysis of the Ferromagnetic Transition
 
 **Presenter:** Shuo
 
 
-## Week 6 (Aug 7)  
+## Week 6 (Aug 11)  
 **Topics:**
 - 6.4 RG Analysis of the Nonlinear $\sigma$-Model
 
 **Presenter:** Morgan
 
 
-## Week 7 (Aug 14)  
+## Week 7 (Aug 18)  
 **Topics:**
 - 6.5 Berezinskii–Kosterlitz–Thouless Transition
 
 **Presenter:** Giorgi
 
 
-## Week 8 (Aug 21)  
+## Week 8 (Aug 25)  
 **Topics:**
 - 7.1 Experimental Approaches to Condensed Matter
 - 7.2 Linear Response Theory
@@ -82,7 +82,7 @@ via [Zoom](https://ucr.zoom.us/my/shixiong)
 **Presenter:** Shuo
 
 
-## Week 9 (Aug 28)  
+## Week 9 (Sep 1)  
 **Topics:**
 - 7.3 Analytic Structure of Correlation Functions
   - 7.3.1 Lehmann representation
@@ -90,7 +90,7 @@ via [Zoom](https://ucr.zoom.us/my/shixiong)
 **Presenter:** Morgan
 
 
-## Week 10 (Sep 4)  
+## Week 10 (Sep 8)  
 **Topics:**
 - 7.3 Analytic Structure of Correlation Functions
   - 7.3.2 Sum rules and other exact identities
