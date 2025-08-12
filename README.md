@@ -64,7 +64,8 @@ via [Zoom](https://ucr.zoom.us/my/shixiong)
 **Topics:**
 - 6.4 RG Analysis of the Nonlinear $\sigma$-Model
 
-**Presenter:** Morgan
+**Presenter:** Morgan  
+**Notes:** [Lie](Morgan_Lie.pdf) & [Nonlinear-sigma](Morgan_Nonlinear-sigma.pdf)
 
 
 ## Week 7 (Aug 18)  
