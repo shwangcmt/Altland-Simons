@@ -10,9 +10,9 @@ The book is available online from our library at [here](https://search.library.u
 **Group Members:** Shuo Geng, Giorgi Gogaberishivili, Morgan Ohana, Shi-Xiong Wang, Jason Yee
 
 **Presentation Time and Location:**  
-Thursdays, 8:00 pm - 10:30 pm (Los Angeles)  
-Fridays, 7:00 am - 9:30 am (Georgia)  
-Fridays, 11:00 am - 1:30 pm (China)  
+Thursdays, 9:00 pm - 11:30 pm (Los Angeles)  
+Fridays, 8:00 am - 10:30 am (Georgia)  
+Fridays, 12:00 pm - 2:30 pm (China)  
 via [Zoom](https://ucr.zoom.us/my/shixiong)
 
 ---
