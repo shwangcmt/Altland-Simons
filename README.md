@@ -88,7 +88,8 @@ via [Zoom](https://ucr.zoom.us/my/shixiong)
 - 7.3 Analytic Structure of Correlation Functions
   - 7.3.1 Lehmann representation
 
-**Presenter:** Morgan
+**Presenter:** Morgan  
+**Notes:** [Correlation functions](Morgan_Corellation_functions.pdf)
 
 
 ## Week 10 (Sep 8)  
